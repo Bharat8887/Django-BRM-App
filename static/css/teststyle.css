@@ -1,0 +1,32 @@
+body{
+  background-image: url("../images/pic1.png");
+  margin:0 80px 80px;
+}
+.heading{
+  color: white;
+  background-color: navy;
+  width: 100%;
+}
+.heading h1{
+  padding: 10px;
+}
+.questionblock{
+  background-color: white;
+  border-style: solid;
+  border-color-navy;
+  padding: 20px;
+  width: 60%;
+}
+.que{
+  font-size: 20px;
+  color:navy;
+  font-weight: bold;
+}
+.options{
+  color: blue;
+  margin-left: 20px;
+}
+.submit input{
+  width: 200px;
+  margin:10px;
+}
